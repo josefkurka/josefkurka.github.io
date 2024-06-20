@@ -1,14 +1,21 @@
 # Basic Information 
 title: Josef Kurka
 position: Ph.D. Student
-affiliation: Institute of Economic Studies, Charles University Institute of Information Theory and Automation, Czech Academy of Sciences
+affiliation: Institute of Economic Studies, Charles University
+affiliation_link: https://ies.fsv.cuni.cz/contacts/institute-members/24805288
+affiliation_logo: ./assets/img/logo-ies-w.png
+affiliation2: Institute of Information Theory and Automation, Czech Academy of Sciences
+affiliation2_link: https://www.utia.cas.cz/people/kurka
+affiliation2_logo: ./assets/img/logo-utia-w.png
 email: josef.kurka (at) fsv.cuni.cz
+email2: pepa.kurka.1 (at) gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Kurka, Josef, Josef Kurka, Kurka Josef, josefkurka, ies, utia, fsv, cuni, uk, charles university, czech academy of sciences
+description: Josef Kurka is a PhD candidate at the Institute of Economic Studies of the Charles University, and a researcher at the Institute of Information Theory and Automation.
+canonical: https://josefkurka.github.io
+
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -16,7 +23,8 @@ google_scholar: https://scholar.google.cz/citations?user=N3JUOL0AAAAJ&hl=cs&oi=a
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/josefkurka
 linkedin: https://cz.linkedin.com/in/josef-kurka-164297223
-twitter: https://orcid.org/0000-0001-8668-4308
+orcid: https://orcid.org/0000-0001-8668-4308
+#twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
