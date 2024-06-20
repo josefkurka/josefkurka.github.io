@@ -36,43 +36,7 @@
 
   </head>
   <body>
-      <div class="topnav">
       
-          <span class="logos">
-          <a href="{{ site.affiliation_link }}"><img width="60px" src="{{ site.affiliation_logo }}"></a>
-          <a href="{{ site.affiliation2_link }}"><img width="60px" src="{{ site.affiliation2_logo }}"></a>
-          </span>
-    
-          <div id="myLinks">
-          {% include navigation.md %}
-          </div>
-    
-          <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-            <i class="fa fa-bars"></i>
-          </a>
-          
-        </div>
-        
-    
-        <script src="./assets/js/vanilla-back-to-top.min.js"></script>
-        <script>addBackToTop({
-            backgroundColor: '#fff',
-            innerHTML: 'Back to Top',
-            textColor: '#333'
-          })
-        </script>
-        <style>
-            #back-to-top {
-              border: 1px solid #ccc;
-              border-radius: 0;
-              font-size: 14px;
-              width: 90px;
-              text-align: center;
-              line-height: 28px;
-              height: 28px;
-        }
-    </style>
-
     <div class="wrapper">
       <header>
         
@@ -90,8 +54,16 @@
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
+        {% if site.affiliation2 %}
+        <a href="{{ site.affiliation_link2 }}" rel="noopener"><autocolor>{{ site.affiliation2 }}</autocolor></a>
+        <br>
+        {% endif %}
         {% if site.email %}
         <email>{{ site.email }}</email>
+        {% endif %}
+        {% if site.email2 %}
+        <br>
+        <email>{{ site.email2 }}</email>
         {% endif %}
 
         <br>
