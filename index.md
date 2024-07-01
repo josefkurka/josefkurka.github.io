@@ -12,10 +12,10 @@ I concentrate my research on the field of financial econometrics. Specifically, 
 
 
 
-## Research Interests
+### Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Asset pricing:** heterogeneously persistent risks, time-varying predictability, higher moment risks
+- **Other interests:** 
 
 ## News
 
