@@ -15,7 +15,7 @@ I concentrate my research on the field of financial econometrics. Specifically, 
 ### Research Interests
 
 - **Asset pricing:** heterogeneously persistent risks, time-varying predictability, higher moment risks
-- **Other interests:** 
+- **Other interests:** predicting sport outcomes, betting strategies, connectedness
 
 ## News
 
