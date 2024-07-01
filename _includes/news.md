@@ -11,5 +11,5 @@ Moments Risks" (with J. Baruník)
 
 - Heterogeneously Persistent Higher Moments Risks (with J. Baruník)
 
-- Predicitng different horizons of market risk premia using the 
+- Predicting different horizons of market risk premia using the 
 persistence structure of higher moments  (with J. Baruník)
