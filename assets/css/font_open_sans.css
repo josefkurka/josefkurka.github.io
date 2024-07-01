@@ -17,9 +17,11 @@ url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400
 url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 @import 
 url('https://fonts.googleapis.com/css?family=Fira+Mono:300,400,500|Source+Code+Pro:200,300,400,500|Roboto+Mono:200,300,400,500&family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap');
+/* open sans */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 /* $linkColor: #003399; */
-/* KLEIN: #002fa7, k-web:#003399, Martin: #253f8e */
+/* k-web:#003399, Patrick: #23297A */
 
 body {
   background-color: #fff;
@@ -29,5 +31,5 @@ body {
   /* font: 15.0px/1.5 'Courier Prime', monospace;  */
   font: 15.0px/1.5 'Inconsolata', 'Courier New', monospace; 
   /* color: #595959; */
-  font-weight: 400;
+  font-weight: 300;
 }
