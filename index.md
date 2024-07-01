@@ -1,8 +1,9 @@
 ---
 layout: homepage
 ---
+<h1 id="about-me"></h1>
 
-## About Me
+## Short bio
 
 I am a Ph.D. student at ...
 
