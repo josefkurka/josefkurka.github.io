@@ -16,7 +16,7 @@
   <li>
     <autocolor>International Review of Financial Analysis</autocolor></li> <br>
   <li>
-    <autocolor>Financial Innovation</autocolor></li>
+    <autocolor>Financial Innovation</autocolor></li> <br>
   <li>
     <autocolor>Financial Markets and Portfolio Management</autocolor></li>
   <li>
