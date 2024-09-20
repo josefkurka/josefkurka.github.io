@@ -23,5 +23,5 @@ Selected conferences
   <li>
     <autocolor><b>04/2018:</b> · Fifth International Symposium in Computational Economics and Finance, Paris · “Does Skewness and Kurtosis Predict Asset Returns in the Long Run?”</autocolor></li>
   <li>
-    <autocolor><b>12/2017:</b> · 11th International Conference on Computational and Financial Econometrics (CFE), London · “Do Cryptocurren- cies and Traditional Asset Classes Influence Each Other?”</autocolor></li>
+    <autocolor><b>12/2017:</b> · 11th International Conference on Computational and Financial Econometrics (CFE), London · “Do Cryptocurrencies and Traditional Asset Classes Influence Each Other?”</autocolor></li>
 </ul>

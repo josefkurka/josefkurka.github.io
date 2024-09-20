@@ -14,7 +14,7 @@
 
 <ul class="refereeing">
   <li>
-    <autocolor>International Review of Financial Analysis</autocolor></li>
+    <autocolor>International Review of Financial Analysis</autocolor></li> <br>
   <li>
     <autocolor>Financial Innovation</autocolor></li>
   <li>
