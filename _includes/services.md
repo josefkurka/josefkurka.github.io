@@ -1,8 +1,28 @@
+<!-- <h1 id="services"></h1> -->
+<!-- <h2>Services</h2> -->
+<!-- <h3>Refereeing</h3> -->
+<h1 id="services"></h1>
+
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+### Thesis supervision
 
+- **Ongoing:** 1 bachelor, 1 master
+- Defended: 3 bachelor
 
+### Refereeing
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
+<ul class="refereeing">
+  <li>
+    <autocolor>International Review of Financial Analysis</autocolor></li>
+  <li>
+    <autocolor>Financial Innovation</autocolor></li>
+  <li>
+    <autocolor>Financial Markets and Portfolio Management</autocolor></li>
+  <li>
+    <autocolor>North American Journal of Economics and Finance</autocolor></li>
+  <li>
+    <autocolor>Journal of Multinational Financial Management</autocolor></li>
+  <li>
+    <autocolor>Czech Journal of Economics and Finance</autocolor></li>
+</ul>
