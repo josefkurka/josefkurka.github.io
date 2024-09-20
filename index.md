@@ -21,4 +21,6 @@ I concentrate my research on the field of financial econometrics. Specifically, 
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/talks.md %}
+
 {% include_relative _includes/services.md %}
