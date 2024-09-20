@@ -5,7 +5,7 @@
 Selected conferences
 <ul>
   <li>
-    <autocolor><b>10/2023:</b> · Statistics of Machine Learning (Stat of ML), Prague · "Heterogeneously Persistent Higher Moment Risks." </autocolor></li>
+    <autocolor><b>10/2023:</b> · Statistics of Machine Learning (Stat of ML), Prague · “Heterogeneously Persistent Higher Moment Risks.” </autocolor></li>
   <li>
     <autocolor><b>08/2023:</b> · 6th International Conference on Econometrics and Statistics (Ecosta), Tokyo · “Distributional asymmetries and currency returns.” </autocolor></li>
   <li>
