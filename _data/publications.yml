@@ -2,9 +2,9 @@ main:
 
   - title: Risks of heterogeneously persistent higher moments
     authors: Jozef Baruník, <strong>Josef Kurka*</strong>
-    conference_short: IRFA
+    conference_short: Preprint
     conference: International Review of Financial Analysis, Forthcoming
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://authors.elsevier.com/sd/article/S1057-5219(24)00505-2
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/heterogeneous_risks.png
