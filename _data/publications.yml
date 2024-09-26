@@ -2,13 +2,13 @@ main:
 
   - title: Risks of heterogeneously persistent higher moments
     authors: Jozef Baruník, <strong>Josef Kurka*</strong>
-    conference_short: Preprint
+    conference_short: IRFA
     conference: International Review of Financial Analysis, Forthcoming
     pdf: https://authors.elsevier.com/sd/article/S1057-5219(24)00505-2
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/heterogeneous_risks.png
-    notes: Accepted
+    # notes: Accepted
 
   - title: Do cryptocurrencies and traditional asset classes influence each other?
     authors: <strong>Josef Kurka</strong>
