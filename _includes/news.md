@@ -4,12 +4,14 @@
 
 ### News
 
+- **[November 2024]** "Heterogeneously Persistent Higher 
+Moments Risks" (with J. Baruník) published in International Review of Financial Analysis
+
 - **[May 2024]** Submitted revision of "Heterogeneously Persistent Higher 
 Moments Risks" (with J. Baruník) 
 
 ### In progress
 
-- Heterogeneously Persistent Higher Moments Risks (with J. Baruník)
+- Skewness Dispersion and the Expected Equity Premium (with M. Babiak and J. Baruník)
 
-- Predicting different horizons of market risk premia using the 
-persistence structure of higher moments  (with J. Baruník)
+
