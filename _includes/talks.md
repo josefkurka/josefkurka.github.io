@@ -5,6 +5,8 @@
 Selected conferences
 <ul>
   <li>
+    <autocolor><b>06/2025:</b> · 6th International Workshop on Financial Markets and Nonlinear Dynamics (FMND), Paris· “Beyond the Mean: Cross-Sectional Skewness Dispersion and Expected Equity Returns” </autocolor></li>
+  <li>
     <autocolor><b>10/2023:</b> · Statistics of Machine Learning (Stat of ML), Prague · “Heterogeneously Persistent Higher Moment Risks.” </autocolor></li>
   <li>
     <autocolor><b>08/2023:</b> · 6th International Conference on Econometrics and Statistics (Ecosta), Tokyo · “Distributional asymmetries and currency returns.” </autocolor></li>
