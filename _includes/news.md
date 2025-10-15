@@ -4,6 +4,8 @@
 
 ### News
 
+- **[April 2025]** Defended dissertation thesis "Essays on Financial Market Asymmetries"
+
 - **[April 2025]** Passed pre-defense of the Dissertation thesis titled "Essays on Financial Market Asymmetries"
 
 - **[November 2024]** "Risks of heterogeneously persistent higher moments" (with J. Baruník) published in International Review of Financial Analysis
