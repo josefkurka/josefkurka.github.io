@@ -4,7 +4,7 @@
 
 ### News
 
-- **[April 2025]** Defended dissertation thesis "Essays on Financial Market Asymmetries"
+- **[October 2025]** Defended dissertation thesis "Essays on Financial Market Asymmetries"
 
 - **[April 2025]** Passed pre-defense of the Dissertation thesis titled "Essays on Financial Market Asymmetries"
 
