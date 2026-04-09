@@ -1,5 +1,15 @@
 main:
 
+  - title: Skewness Dispersion and Stock Market Returns
+    authors: Jozef Baruník, Mykola Babiak, <strong>Josef Kurka*</strong>
+    conference_short: SSRN
+    conference: SSRN
+    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6543219
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/skewness_dispersion.png
+    # notes: Accepted
+
   - title: Risks of heterogeneously persistent higher moments
     authors: Jozef Baruník, <strong>Josef Kurka*</strong>
     conference_short: IRFA

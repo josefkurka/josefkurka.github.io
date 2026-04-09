@@ -15,6 +15,6 @@ Moments Risks" (with J. Baruník)
 
 ### In progress
 
-- Skewness Dispersion and the Expected Equity Premium (with M. Babiak and J. Baruník)
+- [Skewness Dispersion and the Expected Equity Premium (with M. Babiak and J. Baruník)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6543219)
 
 

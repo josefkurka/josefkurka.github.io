@@ -8,8 +8,9 @@
 - Lecturer (at IES FSV UK)
     - Data Processing in Python (JEM207) · 2025-present
 - Teaching Assistant (at IES FSV UK)
-    - Statistics (JEB106) · 2025-present
     - Financial Econometrics I (JEM059) · 2018-present
+    - Statistics (JEB106) · 2025-present
+    - Introductory Statistics (JEB034) · 2026-present
 - Teaching Assistant (previously at IES FSV UK)
   - Advanced Econometrics (JEM005)·2017-2021
   - Quantitative Methods II · 2019
