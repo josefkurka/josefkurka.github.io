@@ -7,8 +7,8 @@
 
 ### Thesis supervision
 
-- **Ongoing:** 1 bachelor, 3 master
-- Defended: 4 bachelor
+- **Ongoing:** 3 bachelor, 4 master
+- Defended: 4 bachelor, 1 master
 
 ### Refereeing
 
